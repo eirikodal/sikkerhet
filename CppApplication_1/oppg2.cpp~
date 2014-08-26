@@ -23,7 +23,7 @@ void lesInnTemp(double temp[], int antall){
     int tall;
     innfil >> tall;
     while(!innfil.eof()){
-	1234
+	Dette er en test
     }
 }
 
